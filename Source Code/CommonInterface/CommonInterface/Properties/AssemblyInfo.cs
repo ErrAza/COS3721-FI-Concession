@@ -6,10 +6,10 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("CommonInterface")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Practical portion of the FI Concession Opportunity Assignment for COS3721 - done by Sean McCann, 49460951 Student Number")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CommonInterface")]
+[assembly: AssemblyCompany("Sean McCann - 49460951")]
+[assembly: AssemblyProduct("49460951 Unisa FI Concession Project")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

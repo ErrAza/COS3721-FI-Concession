@@ -1,0 +1,9 @@
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\CommonInterface\CommonInterface\bin\Release\CommonInterface.exe.config
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\CommonInterface\CommonInterface\bin\Release\CommonInterface.exe
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\CommonInterface\CommonInterface\bin\Release\CommonInterface.pdb
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\CommonInterface\CommonInterface\obj\Release\CommonInterface.frmMain.resources
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\CommonInterface\CommonInterface\obj\Release\CommonInterface.Properties.Resources.resources
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\CommonInterface\CommonInterface\obj\Release\CommonInterface.csproj.GenerateResource.Cache
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\CommonInterface\CommonInterface\obj\Release\CommonInterface.exe
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\CommonInterface\CommonInterface\obj\Release\CommonInterface.pdb
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\CommonInterface\CommonInterface\obj\Release\CommonInterface.csprojResolveAssemblyReference.cache
