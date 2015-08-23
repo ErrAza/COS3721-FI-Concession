@@ -3,6 +3,11 @@ Repo containing the files necessary for the COS3721 FI Concession Assignment due
 
 University of South Africa, Student Number 49460951.
 
+GitHub URL: https://github.com/ErrAza/COS3721-FI-Concession
+
+Clone URL: https://github.com/ErrAza/COS3721-FI-Concession.git
+Clone URL SSH: git@github.com:ErrAza/COS3721-FI-Concession.git
+
 Contents:
 
 1. ThreadProg.
