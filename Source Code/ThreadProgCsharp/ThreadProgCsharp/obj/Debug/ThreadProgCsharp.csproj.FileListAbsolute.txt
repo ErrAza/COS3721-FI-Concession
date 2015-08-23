@@ -1,0 +1,5 @@
+C:\Users\Sean\Desktop\COS3721\ThreadProgCsharp\ThreadProgCsharp\bin\Debug\ThreadProgCsharp.exe.config
+C:\Users\Sean\Desktop\COS3721\ThreadProgCsharp\ThreadProgCsharp\bin\Debug\ThreadProgCsharp.exe
+C:\Users\Sean\Desktop\COS3721\ThreadProgCsharp\ThreadProgCsharp\bin\Debug\ThreadProgCsharp.pdb
+C:\Users\Sean\Desktop\COS3721\ThreadProgCsharp\ThreadProgCsharp\obj\Debug\ThreadProgCsharp.exe
+C:\Users\Sean\Desktop\COS3721\ThreadProgCsharp\ThreadProgCsharp\obj\Debug\ThreadProgCsharp.pdb
