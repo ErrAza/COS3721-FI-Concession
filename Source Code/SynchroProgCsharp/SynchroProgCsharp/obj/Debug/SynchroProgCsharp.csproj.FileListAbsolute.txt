@@ -1,0 +1,6 @@
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\SynchroProgCsharp\SynchroProgCsharp\bin\Debug\SynchroProgCsharp.exe.config
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\SynchroProgCsharp\SynchroProgCsharp\bin\Debug\SynchroProgCsharp.exe
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\SynchroProgCsharp\SynchroProgCsharp\bin\Debug\SynchroProgCsharp.pdb
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\SynchroProgCsharp\SynchroProgCsharp\obj\Debug\SynchroProgCsharp.csprojResolveAssemblyReference.cache
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\SynchroProgCsharp\SynchroProgCsharp\obj\Debug\SynchroProgCsharp.exe
+C:\Users\Sean\Desktop\COS3721\COS3721-FI-Concession\Source Code\SynchroProgCsharp\SynchroProgCsharp\obj\Debug\SynchroProgCsharp.pdb
