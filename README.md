@@ -6,7 +6,7 @@ University of South Africa, Student Number 49460951.
 Contents:
 
 1. ThreadProg.
-2. SynchrProg.
+2. SynchroProg.
 3. Common Interface program which controls the launch of 1 and 2.
 4. Copy of Assignment Paperwork Completed.
 
