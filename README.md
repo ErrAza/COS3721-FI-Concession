@@ -9,4 +9,8 @@ Contents:
 2. SynchroProg.
 3. Common Interface program which controls the launch of 1 and 2.
 4. Copy of Assignment Paperwork Completed.
+5. Copy of Answer Book containing the written/typed portion of the assignment.
+6. Installation/Setup file with which the programs can be installed from.
+
+Run Setup.exe, follow the prompts, on completion, the programs will be installed and a shortcut placed on the desktop.
 
